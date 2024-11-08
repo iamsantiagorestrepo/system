@@ -1,0 +1,2 @@
+def inicializar():
+    return None

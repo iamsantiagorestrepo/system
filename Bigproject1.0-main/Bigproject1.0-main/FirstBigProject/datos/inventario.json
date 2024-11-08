@@ -1,0 +1,22 @@
+{
+    "Botella Whiskey": {
+        "cantidad": 10,
+        "precio": 500.0
+    },
+    "Cerveza": {
+        "cantidad": 10,
+        "precio": 20.0
+    },
+    "Aguardiente": {
+        "cantidad": 10,
+        "precio": 100.0
+    },
+    "Gin": {
+        "cantidad": 10,
+        "precio": 200.0
+    },
+    "Coctel": {
+        "cantidad": 50,
+        "precio": 30.0
+    }
+}
